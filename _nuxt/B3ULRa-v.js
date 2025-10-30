@@ -1,1 +1,0 @@
-import{_ as s,d as a,i as r,N as t}from"./l4anJh-s.js";const n={};function o(e,c){return r(),a("thead",null,[t(e.$slots,"default")])}const d=Object.assign(s(n,[["render",o]]),{__name:"ProseThead"});export{d as default};

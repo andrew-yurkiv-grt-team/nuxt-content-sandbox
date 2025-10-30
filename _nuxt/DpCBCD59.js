@@ -1,1 +1,0 @@
-import{g as o}from"./COmZCg2D.js";import{r as e,E as i}from"./l4anJh-s.js";const[n]=o("ConfigProvider");function s(r){const t=n({dir:e("ltr")});return i(()=>r?.value||t.dir?.value||"ltr")}export{n as i,s as u};
