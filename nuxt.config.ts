@@ -7,6 +7,16 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxt/eslint',
     '@nuxt/image',
-    '@nuxt/ui'
-  ]
+    '@nuxt/ui',
+    '@nuxtjs/i18n'
+  ],
+  i18n: {
+    locales: [
+      { code: 'en', name: 'English', language: 'en-US', dir: 'ltr' },
+      { code: 'fr', name: 'French', language: 'fr-FR' },
+      { code: 'fa', name: 'Farsi', language: 'fa-IR', dir: 'rtl' },
+    ],
+    strategy: 'prefix_except_default',
+    defaultLocale: 'en',
+  }
 })
