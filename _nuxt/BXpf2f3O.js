@@ -1,1 +1,0 @@
-import{_ as o,d as s,i as r,g as n,N as l}from"./CU_QZF7q.js";const a={};function m(t,e){return r(),s("div",null,[e[0]||(e[0]=n("h1",null,"Test component",-1)),l(t.$slots,"title"),e[1]||(e[1]=n("h1",null,"Test component end",-1))])}const p=Object.assign(o(a,[["render",m]]),{__name:"TestComponent"});export{p as default};
