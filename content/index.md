@@ -3,7 +3,7 @@
 ::test-component
 ---
 class: test-class
-test-prop: /image-placeholder.png
+test-prop: /avatar-placeholder.png
 ---
 #title
 Please be careful!
